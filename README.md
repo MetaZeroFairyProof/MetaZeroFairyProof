@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MetaZeroFairyProof
-- 👀 I’m interested in blockchain security.
+- 👀 I’m interested in Rust and BlockChain.
 - 🌱 I’m currently learning Solidity and Move.
 - 💞️ I’m looking to collaborate on monitoring and early warning of blockchain attack events
 - 📫 How to reach me zero@fairyproof.com
